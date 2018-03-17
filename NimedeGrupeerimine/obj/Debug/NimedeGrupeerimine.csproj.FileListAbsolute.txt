@@ -1,0 +1,7 @@
+D:\programs\Visual Studio 2017\NimedeGrupeerimine\NimedeGrupeerimine\bin\Debug\NimedeGrupeerimine.exe.config
+D:\programs\Visual Studio 2017\NimedeGrupeerimine\NimedeGrupeerimine\bin\Debug\NimedeGrupeerimine.exe
+D:\programs\Visual Studio 2017\NimedeGrupeerimine\NimedeGrupeerimine\bin\Debug\NimedeGrupeerimine.pdb
+D:\programs\Visual Studio 2017\NimedeGrupeerimine\NimedeGrupeerimine\obj\Debug\NimedeGrupeerimine.csproj.CoreCompileInputs.cache
+D:\programs\Visual Studio 2017\NimedeGrupeerimine\NimedeGrupeerimine\obj\Debug\NimedeGrupeerimine.exe
+D:\programs\Visual Studio 2017\NimedeGrupeerimine\NimedeGrupeerimine\obj\Debug\NimedeGrupeerimine.pdb
+D:\programs\Visual Studio 2017\NimedeGrupeerimine\NimedeGrupeerimine\obj\Debug\NimedeGrupeerimine.csprojResolveAssemblyReference.cache
